@@ -1,0 +1,19 @@
+{
+  "/_document": "pages/_document.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/careers": "pages/careers.html",
+  "/about": "pages/about.html",
+  "/contact": "pages/contact.html",
+  "/": "pages/index.html",
+  "/milestone": "pages/milestone.html",
+  "/inquiry": "pages/inquiry.html",
+  "/news": "pages/news.html",
+  "/services": "pages/services.html",
+  "/quote": "pages/quote.html",
+  "/subsidary": "pages/subsidary.html",
+  "/subsidaries": "pages/subsidaries.html",
+  "/team": "pages/team.html",
+  "/teamdetail": "pages/teamdetail.html",
+  "/404": "pages/404.html"
+}
